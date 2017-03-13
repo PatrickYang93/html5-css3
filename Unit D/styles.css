@@ -1,0 +1,45 @@
+/* 
+   Lakeland Reeds Bed and Breakfast style sheet 
+   Filename: styles.css
+
+   Author:   Qiguang Yang
+   Date:     1/27/2016
+   HTML5 and CSS3 Illustrated Unit D, Lessons
+ */
+
+body{
+	margain:0 50px;
+}
+
+header {
+	padding: 0 50px;
+	text-align:center;
+	background-color:#CF0;
+}
+
+article {
+		border: 3px solid #9999CC;
+		float:right;
+		background-color: #39C;
+		width: 58%;
+		height: 300px;
+}
+
+aside {
+	border: 3px solid #00FF66;
+	background-color: #F69;
+	float:left;
+	width: 40%;
+	height: 300px;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+	background-color: #FC0;
+	}
+
+
+
+
+	
